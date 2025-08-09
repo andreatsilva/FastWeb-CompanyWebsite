@@ -14,25 +14,15 @@
     "viewPortfolio": "Ver portfólio",
     "deliveryBadge": "Entrega em 72h"
   },
-  "Trust": {
-    "aiPowered": "Potencializado por IA",
-    "aiDescription": "Smart Design",
-    "mobileOptimized": "Mobile-Optimized",
-    "mobileDescription": "All Devices",
-    "fastDelivery": "Fast Delivery",
-    "deliveryDescription": "72 Hours",
-    "seoReady": "SEO-Ready",
-    "seoDescription": "Google Optimized"
-  },
   "About": {
     "title": "Por que trabalhar comigo",
-    "description": "Sou Andre Silva, um especialista em sites de IA que ajuda proprietários de pequenas empresas a obter sites profissionais sem quebrar o banco. Com mais de 5 anos de experiência e tecnologia de IA de ponta, entrego sites impressionantes que realmente convertem.",
+    "description": "Sou Andre Silva, um especialista em sites de IA que ajuda proprietários de pequeñas empresas a obter sites profissionais sem quebrar o banco. Com mais de 5 años de experiência e tecnología de IA de ponta, entrego sites impressionantes que realmente convertem.",
     "consult": "Consultar",
     "consultDescription": "Chamada de estratégia gratuita para entender suas necessidades",
     "build": "Construir",
-    "buildDescription": "Design impulsionado por IA com sua identidade de marca",
-    "launch": "Lançar",
-    "launchDescription": "Lançar em 72 horas com suporte completo"
+    "buildDescription": "Design potencializado por IA com sua identidade de marca",
+    "launch": "Lanzar",
+    "launchDescription": "Lanzar em 72 horas com soporte completo"
   },
   "QuoteCalculator": {
     "title": "Obtenha seu orçamento instantâneo",
@@ -40,7 +30,7 @@
     "basePrice": "Preço base",
     "selectedFeatures": "Recursos selecionados",
     "total": "Total",
-    "getQuote": "Obter orçamento"
+    "getQuote": "Obtenha seu orçamento"
   },
   "Portfolio": {
     "title": "Nosso portfólio",
@@ -59,7 +49,7 @@
     "services": "Serviços",
     "contact": "Contato",
     "follow": "Seguir",
-    "copyright": "© 2024 Andre Silva. Todos os direitos reservados."
+    "copyright": "© 2025 Andre Silva. Todos os direitos reservados."
   },
   "Features": {
     "responsive": "Design responsivo",
@@ -68,5 +58,25 @@
     "seo": "Otimização SEO",
     "ssl": "Certificado SSL",
     "speed": "Otimização de velocidade"
+  },
+  "Trust": {
+    "aiPowered": "Potencializado por IA",
+    "aiDescription": "Tecnologia de ponta",
+    "mobileOptimized": "Otimizado para móveis",
+    "mobileDescription": "Funciona em todos os dispositivos",
+    "fastDelivery": "Entrega rápida",
+    "deliveryDescription": "Entrega em 72 horas",
+    "seoReady": "Pronto para SEO",
+    "seoDescription": "Otimizado para motores de busca"
+  },
+  "AppointmentScheduler": {
+    "title": "Programar una cita",
+    "date": "Fecha",
+    "time": "Hora",
+    "message": "Mensaje",
+    "messagePlaceholder": "Describe brevemente tu idea o solicitud",
+    "sendRequest": "Enviar solicitud de cita",
+    "selectDateTime": "Por favor selecciona fecha y hora.",
+    "emailOpened": "Cliente de correo abierto. Por favor envía tu solicitud de cita."
   }
 }

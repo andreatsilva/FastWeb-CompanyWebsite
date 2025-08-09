@@ -21,6 +21,7 @@ import {
   MapPin
 } from 'lucide-react';
 import QuoteCalculator from '@/components/QuoteCalculator';
+import AppointmentScheduler from '@/components/AppointmentScheduler';
 import PortfolioSection from '@/components/PortfolioSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
 import LanguageSelector from '@/components/LanguageSelector';
@@ -254,6 +255,7 @@ export default function Home() {
           </motion.div>
           
           <QuoteCalculator />
+          <AppointmentScheduler />
         </div>
       </section>
 

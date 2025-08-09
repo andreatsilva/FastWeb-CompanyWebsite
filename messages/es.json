@@ -14,19 +14,9 @@
     "viewPortfolio": "Ver portafolio",
     "deliveryBadge": "Entrega en 72h"
   },
-  "Trust": {
-    "aiPowered": "Impulsado por IA",
-    "aiDescription": "Smart Design",
-    "mobileOptimized": "Mobile-Optimized",
-    "mobileDescription": "All Devices",
-    "fastDelivery": "Fast Delivery",
-    "deliveryDescription": "72 Hours",
-    "seoReady": "SEO-Ready",
-    "seoDescription": "Google Optimized"
-  },
   "About": {
     "title": "Por qué trabajar conmigo",
-    "description": "Soy Andre Silva, un especialista en sitios web de IA que ayuda a propietarios de pequeñas empresas a obtener sitios web profesionales sin romper el banco. Con más de 5 años de experiencia y tecnología de IA de vanguardia, entrego sitios web impresionantes que realmente convierten.",
+    "description": "Soy FastWeb, un especialista en sitios web de IA que ayuda a propietarios de pequeñas empresas a obtener sitios web profesionales sin romper el banco. Con más de 5 años de experiencia y tecnología de IA de vanguardia, entrego sitios web impresionantes que realmente convierten.",
     "consult": "Consultar",
     "consultDescription": "Llamada de estrategia gratuita para entender tus necesidades",
     "build": "Construir",
@@ -51,7 +41,7 @@
     "description": "No solo toma nuestra palabra"
   },
   "CTA": {
-    "title": "Listo para lanzar tu sitio web?",
+    "title": "¿Listo para lanzar tu sitio web?",
     "description": "Obtén tu sitio web profesional en 72 horas. Sin tarifas ocultas, solo resultados.",
     "startProject": "Comenzar tu proyecto ahora"
   },
@@ -59,7 +49,7 @@
     "services": "Servicios",
     "contact": "Contacto",
     "follow": "Seguir",
-    "copyright": "© 2024 Andre Silva. Todos los derechos reservados."
+    "copyright": "© 2025 Andre Silva. Todos los derechos reservados."
   },
   "Features": {
     "responsive": "Diseño responsivo",
@@ -68,5 +58,25 @@
     "seo": "Optimización SEO",
     "ssl": "Certificado SSL",
     "speed": "Optimización de velocidad"
+  },
+  "Trust": {
+    "aiPowered": "Impulsado por IA",
+    "aiDescription": "Tecnología de vanguardia",
+    "mobileOptimized": "Optimizado para móviles",
+    "mobileDescription": "Funciona en todos los dispositivos",
+    "fastDelivery": "Entrega rápida",
+    "deliveryDescription": "Entrega en 72 horas",
+    "seoReady": "Listo para SEO",
+    "seoDescription": "Optimizado para motores de búsqueda"
+  },
+  "AppointmentScheduler": {
+    "title": "Programar una cita",
+    "date": "Fecha",
+    "time": "Hora",
+    "message": "Mensaje",
+    "messagePlaceholder": "Describe brevemente tu idea o solicitud",
+    "sendRequest": "Enviar solicitud de cita",
+    "selectDateTime": "Por favor selecciona fecha y hora.",
+    "emailOpened": "Cliente de correo abierto. Por favor envía tu solicitud de cita."
   }
 }

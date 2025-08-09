@@ -12,27 +12,17 @@
     "description": "Affordable, fast, and tailored to your business. Get a professional website that converts visitors into customers.",
     "getQuote": "Get Your Instant Quote",
     "viewPortfolio": "View Portfolio",
-    "deliveryBadge": "72hr Delivery"
-  },
-  "Trust": {
-    "aiPowered": "AI-Powered",
-    "aiDescription": "Smart Design",
-    "mobileOptimized": "Mobile-Optimized",
-    "mobileDescription": "All Devices",
-    "fastDelivery": "Fast Delivery",
-    "deliveryDescription": "72 Hours",
-    "seoReady": "SEO-Ready",
-    "seoDescription": "Google Optimized"
+    "deliveryBadge": "72h Delivery"
   },
   "About": {
     "title": "Why Work With Me",
-    "description": "I'm Andre Silva, an AI Website Specialist who helps small business owners get professional websites without breaking the bank. With over 5 years of experience and cutting-edge AI technology, I deliver stunning websites that actually convert.",
+    "description": "I'm Andre Silva, an AI website specialist who helps small business owners get professional websites without breaking the bank. With over 5 years of experience and cutting-edge AI technology, I deliver stunning websites that actually convert.",
     "consult": "Consult",
     "consultDescription": "Free strategy call to understand your needs",
     "build": "Build",
     "buildDescription": "AI-powered design with your brand identity",
     "launch": "Launch",
-    "launchDescription": "Go live in 72 hours with full support"
+    "launchDescription": "Launch in 72 hours with full support"
   },
   "QuoteCalculator": {
     "title": "Get Your Instant Quote",
@@ -59,7 +49,7 @@
     "services": "Services",
     "contact": "Contact",
     "follow": "Follow",
-    "copyright": "© 2024 Andre Silva. All rights reserved."
+    "copyright": "© 2025 Andre Silva. All rights reserved."
   },
   "Features": {
     "responsive": "Responsive Design",
@@ -68,5 +58,25 @@
     "seo": "SEO Optimization",
     "ssl": "SSL Certificate",
     "speed": "Speed Optimization"
+  },
+  "Trust": {
+    "aiPowered": "AI-Powered",
+    "aiDescription": "Cutting-edge technology",
+    "mobileOptimized": "Mobile-Optimized",
+    "mobileDescription": "Works on all devices",
+    "fastDelivery": "Fast Delivery",
+    "deliveryDescription": "72-hour turnaround",
+    "seoReady": "SEO-Ready",
+    "seoDescription": "Search engine optimized"
+  },
+  "AppointmentScheduler": {
+    "title": "Schedule an Appointment",
+    "date": "Date",
+    "time": "Time",
+    "message": "Message",
+    "messagePlaceholder": "Briefly describe your idea or request",
+    "sendRequest": "Send Appointment Request",
+    "selectDateTime": "Please select date and time.",
+    "emailOpened": "Email client opened. Please send your appointment request."
   }
 }
