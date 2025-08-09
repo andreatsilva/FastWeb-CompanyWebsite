@@ -1,0 +1,72 @@
+{
+  "Navigation": {
+    "title": "FastWeb",
+    "subtitle": "AI Website Specialist",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "getQuote": "Get Quote"
+  },
+  "Hero": {
+    "headline": "Your Website in 72 Hours",
+    "subheadline": "Powered by AI",
+    "description": "Affordable, fast, and tailored to your business. Get a professional website that converts visitors into customers.",
+    "getQuote": "Get Your Instant Quote",
+    "viewPortfolio": "View Portfolio",
+    "deliveryBadge": "72hr Delivery"
+  },
+  "Trust": {
+    "aiPowered": "AI-Powered",
+    "aiDescription": "Smart Design",
+    "mobileOptimized": "Mobile-Optimized",
+    "mobileDescription": "All Devices",
+    "fastDelivery": "Fast Delivery",
+    "deliveryDescription": "72 Hours",
+    "seoReady": "SEO-Ready",
+    "seoDescription": "Google Optimized"
+  },
+  "About": {
+    "title": "Why Work With Me",
+    "description": "I'm Andre Silva, an AI Website Specialist who helps small business owners get professional websites without breaking the bank. With over 5 years of experience and cutting-edge AI technology, I deliver stunning websites that actually convert.",
+    "consult": "Consult",
+    "consultDescription": "Free strategy call to understand your needs",
+    "build": "Build",
+    "buildDescription": "AI-powered design with your brand identity",
+    "launch": "Launch",
+    "launchDescription": "Go live in 72 hours with full support"
+  },
+  "QuoteCalculator": {
+    "title": "Get Your Instant Quote",
+    "description": "Select your features and see your website preview instantly",
+    "basePrice": "Base Price",
+    "selectedFeatures": "Selected Features",
+    "total": "Total",
+    "getQuote": "Get Your Quote"
+  },
+  "Portfolio": {
+    "title": "Our Portfolio",
+    "description": "See what we've built for businesses like yours"
+  },
+  "Testimonials": {
+    "title": "What Our Clients Say",
+    "description": "Don't just take our word for it"
+  },
+  "CTA": {
+    "title": "Ready to Launch Your Website?",
+    "description": "Get your professional website in 72 hours. No hidden fees, just results.",
+    "startProject": "Start Your Project Now"
+  },
+  "Footer": {
+    "services": "Services",
+    "contact": "Contact",
+    "follow": "Follow",
+    "copyright": "© 2024 Andre Silva. All rights reserved."
+  },
+  "Features": {
+    "responsive": "Responsive Design",
+    "ecommerce": "E-commerce",
+    "booking": "Booking System",
+    "seo": "SEO Optimization",
+    "ssl": "SSL Certificate",
+    "speed": "Speed Optimization"
+  }
+}

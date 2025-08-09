@@ -1,0 +1,72 @@
+{
+  "Navigation": {
+    "title": "FastWeb",
+    "subtitle": "Especialista em sites de IA",
+    "services": "Serviços",
+    "portfolio": "Portfólio",
+    "getQuote": "Obter orçamento"
+  },
+  "Hero": {
+    "headline": "Seu site em 72 horas",
+    "subheadline": "Potencializado por IA",
+    "description": "Acessível, rápido e adaptado ao seu negócio. Obtenha um site profissional que converte visitantes em clientes.",
+    "getQuote": "Obtenha seu orçamento instantâneo",
+    "viewPortfolio": "Ver portfólio",
+    "deliveryBadge": "Entrega em 72h"
+  },
+  "Trust": {
+    "aiPowered": "Potencializado por IA",
+    "aiDescription": "Smart Design",
+    "mobileOptimized": "Mobile-Optimized",
+    "mobileDescription": "All Devices",
+    "fastDelivery": "Fast Delivery",
+    "deliveryDescription": "72 Hours",
+    "seoReady": "SEO-Ready",
+    "seoDescription": "Google Optimized"
+  },
+  "About": {
+    "title": "Por que trabalhar comigo",
+    "description": "Sou Andre Silva, um especialista em sites de IA que ajuda proprietários de pequenas empresas a obter sites profissionais sem quebrar o banco. Com mais de 5 anos de experiência e tecnologia de IA de ponta, entrego sites impressionantes que realmente convertem.",
+    "consult": "Consultar",
+    "consultDescription": "Chamada de estratégia gratuita para entender suas necessidades",
+    "build": "Construir",
+    "buildDescription": "Design impulsionado por IA com sua identidade de marca",
+    "launch": "Lançar",
+    "launchDescription": "Lançar em 72 horas com suporte completo"
+  },
+  "QuoteCalculator": {
+    "title": "Obtenha seu orçamento instantâneo",
+    "description": "Selecione seus recursos e veja sua prévia de site instantaneamente",
+    "basePrice": "Preço base",
+    "selectedFeatures": "Recursos selecionados",
+    "total": "Total",
+    "getQuote": "Obter orçamento"
+  },
+  "Portfolio": {
+    "title": "Nosso portfólio",
+    "description": "Veja o que construímos para negócios como o seu"
+  },
+  "Testimonials": {
+    "title": "O que nossos clientes dizem",
+    "description": "Não apenas tome nossa palavra"
+  },
+  "CTA": {
+    "title": "Pronto para lançar seu site?",
+    "description": "Obtenha seu site profissional em 72 horas. Sem taxas ocultas, apenas resultados.",
+    "startProject": "Começar seu projeto agora"
+  },
+  "Footer": {
+    "services": "Serviços",
+    "contact": "Contato",
+    "follow": "Seguir",
+    "copyright": "© 2024 Andre Silva. Todos os direitos reservados."
+  },
+  "Features": {
+    "responsive": "Design responsivo",
+    "ecommerce": "Comércio eletrônico",
+    "booking": "Sistema de reserva",
+    "seo": "Otimização SEO",
+    "ssl": "Certificado SSL",
+    "speed": "Otimização de velocidade"
+  }
+}
