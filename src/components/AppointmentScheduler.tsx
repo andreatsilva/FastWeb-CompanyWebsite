@@ -53,7 +53,7 @@ export default function AppointmentScheduler() {
           />
         </div>
         <div>
-          <label htmlFor="message" className="block font-medium mb-1">{t('AppointmentScheduler.message')}</label>
+          <label htmlFor="message" className="block text-black font-medium mb-1">{t('AppointmentScheduler.message')}</label>
           <textarea
             id="message"
             value={message}
