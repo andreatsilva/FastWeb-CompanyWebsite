@@ -65,7 +65,7 @@ function HomeContent() {
               <a href="#services" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">{t('Navigation.services')}</a>
               <a href="#portfolio" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">{t('Navigation.portfolio')}</a>
               <a href="#contact" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">{t('Contact')}</a>
-              <a href="#quote" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">{t('Navigation.getQuote')}</a>
+         
               <LanguageSelector onLanguageChange={setLanguage} />
             </div>
             
