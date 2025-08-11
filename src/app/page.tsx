@@ -25,7 +25,7 @@ import TestimonialsSection from '@/components/TestimonialsSection';
 import LanguageSelector from '@/components/LanguageSelector';
 import { LanguageProvider, useTranslation } from '@/contexts/LanguageContext';
 import AppointmentScheduler from '@/components/AppointmentScheduler';
-
+import ContactSection from '@/components/ContactSection';
 
 
 function HomeContent() {
@@ -64,6 +64,7 @@ function HomeContent() {
             <div className="hidden md:flex items-center space-x-4">
               <a href="#services" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">{t('Navigation.services')}</a>
               <a href="#portfolio" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">{t('Navigation.portfolio')}</a>
+              <a href="#contact" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">{t('Contact')}</a>
               <a href="#quote" className="text-gray-700 hover:text-blue-900 px-3 py-2 rounded-md text-sm font-medium">{t('Navigation.getQuote')}</a>
               <LanguageSelector onLanguageChange={setLanguage} />
             </div>
@@ -96,7 +97,7 @@ function HomeContent() {
               
               <motion.div variants={fadeInUp} className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
                 <a 
-                  href="#quote" 
+                  href="#contact" 
                   className="inline-flex items-center px-8 py-4 bg-blue-900 text-white font-semibold rounded-lg hover:bg-blue-800 transition-colors"
                 >
                   {t('Hero.getQuote')}
@@ -240,30 +241,16 @@ function HomeContent() {
       </section>
 
       {/* Quote Calculator Section */}
-      <section id="quote" className="py-20 bg-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <motion.div 
-            className="text-center mb-12"
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8 }}
-          >
-            <h2 className="text-3xl md:text-4xl font-bold text-blue-900 mb-4">
-              {t('QuoteCalculator.title')}
-            </h2>
-            <p className="text-xl text-gray-600">
-              {t('QuoteCalculator.description')}
-            </p>
-          </motion.div>
+    
+        
           
-          <QuoteCalculator t={t} />
-        </div>
-      </section>
+          
+   
 
       {/* Portfolio Section */}
-      <AppointmentScheduler />
+      
       <PortfolioSection t={t} />
-
+      <ContactSection t={t} />
       {/* Testimonials Section */}
       <TestimonialsSection t={t} />
 

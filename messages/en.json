@@ -78,5 +78,25 @@
     "sendRequest": "Send Appointment Request",
     "selectDateTime": "Please select date and time.",
     "emailOpened": "Email client opened. Please send your appointment request."
+  },
+  "Contact": {
+    "title": "Get In Touch",
+    "description": "Ready to start your project? Get in touch with us today and let's discuss how we can help you achieve your goals.",
+    "getInTouch": "Get In Touch",
+    "getInTouchDescription": "Ready to start your project? Get in touch with us today and let's discuss how we can help you achieve your goals.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "namePlaceholder": "Your full name",
+      "emailPlaceholder": "your.email@example.com",
+      "subjectPlaceholder": "Select a subject",
+      "messagePlaceholder": "Tell us about your project...",
+      "sendMessage": "Send Message",
+      "sending": "Sending...",
+      "successMessage": "Thank you! Your message has been sent successfully.",
+      "errorMessage": "Sorry, there was an error sending your message. Please try again."
+    }
   }
 }

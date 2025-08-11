@@ -1,49 +1,49 @@
 {
   "Navigation": {
     "title": "FastWeb",
-    "subtitle": "Especialista em sites de IA",
+    "subtitle": "Especialista em Sites com IA",
     "services": "Serviços",
     "portfolio": "Portfólio",
-    "getQuote": "Obter orçamento"
+    "getQuote": "Cotar"
   },
   "Hero": {
-    "headline": "Seu site em 72 horas",
+    "headline": "Seu Site em 72 Horas",
     "subheadline": "Potencializado por IA",
-    "description": "Acessível, rápido e adaptado ao seu negócio. Obtenha um site profissional que converte visitantes em clientes.",
-    "getQuote": "Obtenha seu orçamento instantâneo",
-    "viewPortfolio": "Ver portfólio",
-    "deliveryBadge": "Entrega em 72h"
+    "description": "Acessível, rápido e personalizado para seu negócio. Obtenha um site profissional que converte visitantes em clientes.",
+    "getQuote": "Obter Cotação Instantânea",
+    "viewPortfolio": "Ver Portfólio",
+    "deliveryBadge": "Entrega 72h"
   },
   "About": {
-    "title": "Por que trabalhar comigo",
-    "description": "Sou Andre Silva, um especialista em sites de IA que ajuda proprietários de pequeñas empresas a obter sites profissionais sem quebrar o banco. Com mais de 5 años de experiência e tecnología de IA de ponta, entrego sites impressionantes que realmente convertem.",
+    "title": "Por Que Trabalhar Comigo",
+    "description": "Sou Andre Silva, especialista em sites com IA que ajuda proprietários de pequenas empresas a obter sites profissionais sem gastar uma fortuna. Com mais de 5 anos de experiência e tecnologia de IA de ponta, entrego sites impressionantes que realmente convertem.",
     "consult": "Consultar",
-    "consultDescription": "Chamada de estratégia gratuita para entender suas necessidades",
+    "consultDescription": "Chamada estratégica gratuita para entender suas necessidades",
     "build": "Construir",
-    "buildDescription": "Design potencializado por IA com sua identidade de marca",
-    "launch": "Lanzar",
-    "launchDescription": "Lanzar em 72 horas com soporte completo"
+    "buildDescription": "Design impulsionado por IA com sua identidade de marca",
+    "launch": "Lançar",
+    "launchDescription": "Lançamento em 72 horas com suporte completo"
   },
   "QuoteCalculator": {
-    "title": "Obtenha seu orçamento instantâneo",
-    "description": "Selecione seus recursos e veja sua prévia de site instantaneamente",
-    "basePrice": "Preço base",
-    "selectedFeatures": "Recursos selecionados",
+    "title": "Obter Cotação Instantânea",
+    "description": "Selecione suas características e veja sua prévia do site instantaneamente",
+    "basePrice": "Preço Base",
+    "selectedFeatures": "Características Selecionadas",
     "total": "Total",
-    "getQuote": "Obtenha seu orçamento"
+    "getQuote": "Obter Cotação"
   },
   "Portfolio": {
-    "title": "Nosso portfólio",
+    "title": "Nosso Portfólio",
     "description": "Veja o que construímos para negócios como o seu"
   },
   "Testimonials": {
-    "title": "O que nossos clientes dizem",
+    "title": "O Que Nossos Clientes Dizem",
     "description": "Não apenas tome nossa palavra"
   },
   "CTA": {
-    "title": "Pronto para lançar seu site?",
+    "title": "Pronto para Lançar Seu Site?",
     "description": "Obtenha seu site profissional em 72 horas. Sem taxas ocultas, apenas resultados.",
-    "startProject": "Começar seu projeto agora"
+    "startProject": "Começar Projeto Agora"
   },
   "Footer": {
     "services": "Serviços",
@@ -52,31 +52,66 @@
     "copyright": "© 2025 Andre Silva. Todos os direitos reservados."
   },
   "Features": {
-    "responsive": "Design responsivo",
-    "ecommerce": "Comércio eletrônico",
-    "booking": "Sistema de reserva",
+    "responsive": "Design Responsivo",
+    "ecommerce": "Comércio Eletrônico",
+    "booking": "Sistema de Reservas",
     "seo": "Otimização SEO",
     "ssl": "Certificado SSL",
-    "speed": "Otimização de velocidade"
+    "speed": "Otimização de Velocidade"
   },
   "Trust": {
     "aiPowered": "Potencializado por IA",
     "aiDescription": "Tecnologia de ponta",
-    "mobileOptimized": "Otimizado para móveis",
+    "mobileOptimized": "Otimizado para Móveis",
     "mobileDescription": "Funciona em todos os dispositivos",
-    "fastDelivery": "Entrega rápida",
+    "fastDelivery": "Entrega Rápida",
     "deliveryDescription": "Entrega em 72 horas",
     "seoReady": "Pronto para SEO",
     "seoDescription": "Otimizado para motores de busca"
   },
   "AppointmentScheduler": {
-    "title": "Programar una cita",
-    "date": "Fecha",
+    "title": "Agendar uma Consulta",
+    "date": "Data",
     "time": "Hora",
-    "message": "Mensaje",
-    "messagePlaceholder": "Describe brevemente tu idea o solicitud",
-    "sendRequest": "Enviar solicitud de cita",
-    "selectDateTime": "Por favor selecciona fecha y hora.",
-    "emailOpened": "Cliente de correo abierto. Por favor envía tu solicitud de cita."
+    "message": "Mensagem",
+    "messagePlaceholder": "Descreva brevemente sua ideia ou solicitação",
+    "sendRequest": "Enviar Solicitação de Consulta",
+    "selectDateTime": "Por favor selecione data e hora.",
+    "emailOpened": "Cliente de email aberto. Por favor envie sua solicitação de consulta."
+  },
+  "Contact": {
+    "title": "Entre em Contato",
+    "description": "Pronto para começar seu projeto? Entre em contato conosco hoje e vamos discutir como podemos ajudá-lo a alcançar seus objetivos.",
+    "getInTouch": "Entre em Contato",
+    "getInTouchDescription": "Pronto para começar seu projeto? Entre em contato conosco hoje e vamos discutir como podemos ajudá-lo a alcançar seus objetivos.",
+    "email": "Email",
+    "phone": "Telefone",
+    "location": "Localização",
+    "locationDescription": "Disponível Mundialmente",
+    "hours": "Horário",
+    "hoursDescription": "Seg - Sex: 9AM - 6PM EST",
+    "newsletter": "Newsletter",
+    "newsletterDescription": "Inscreva-se para receber as últimas notícias e ofertas especiais.",
+    "newsletterPlaceholder": "Seu email",
+    "subscribe": "Inscrever-se",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "subject": "Assunto",
+      "message": "Mensagem",
+      "namePlaceholder": "Seu nome completo",
+      "emailPlaceholder": "seu.email@exemplo.com",
+      "subjectPlaceholder": "Selecione um assunto",
+      "messagePlaceholder": "Conte-nos sobre seu projeto...",
+      "sendMessage": "Enviar Mensagem",
+      "sending": "Enviando...",
+      "successMessage": "Obrigado! Sua mensagem foi enviada com sucesso.",
+      "errorMessage": "Desculpe, houve um erro ao enviar sua mensagem. Por favor tente novamente.",
+      "newWebsite": "Novo Site",
+      "redesign": "Redesign de Site",
+      "ecommerce": "Comércio Eletrônico",
+      "consultation": "Consulta",
+      "other": "Outro"
+    }
   }
 }
